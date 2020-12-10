@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pivoteamento-de-gauss", "pivoteamento-de-gauss.vcxproj", "{978115F8-29C4-4019-8EF4-CD6AD3D97785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978115F8-29C4-4019-8EF4-CD6AD3D97785}.Debug|x64.ActiveCfg = Debug|x64
+		{978115F8-29C4-4019-8EF4-CD6AD3D97785}.Debug|x64.Build.0 = Debug|x64
+		{978115F8-29C4-4019-8EF4-CD6AD3D97785}.Debug|x86.ActiveCfg = Debug|Win32
+		{978115F8-29C4-4019-8EF4-CD6AD3D97785}.Debug|x86.Build.0 = Debug|Win32
+		{978115F8-29C4-4019-8EF4-CD6AD3D97785}.Release|x64.ActiveCfg = Release|x64
+		{978115F8-29C4-4019-8EF4-CD6AD3D97785}.Release|x64.Build.0 = Release|x64
+		{978115F8-29C4-4019-8EF4-CD6AD3D97785}.Release|x86.ActiveCfg = Release|Win32
+		{978115F8-29C4-4019-8EF4-CD6AD3D97785}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA7001F-3190-4AFA-B100-7B859F2181B8}
+	EndGlobalSection
+EndGlobal
